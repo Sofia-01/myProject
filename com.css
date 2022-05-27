@@ -2,10 +2,16 @@
 body{
     font-family: sans-serif;
 }
+.container{
+    width:1440px;
+    margin: 0 auto;
+}
 /*main-header- styles*/
+
 header{
     display: flex;
 justify-content: space-between;
+align-items: center;
 }
 .box{ 
     height: 850px;
